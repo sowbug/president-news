@@ -2,7 +2,7 @@
 "update_url":"http://clients2.google.com/service/update2/crx",
   "name": "The Donald Speaks",
   "description": "On Google News, gives President a chance to comment on every newsworthy event.",
-  "version": "0.0.0.2",
+  "version": "0.0.0.3",
   "manifest_version": 2,
 
   "icons": {

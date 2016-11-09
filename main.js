@@ -18,9 +18,9 @@ function randomHilariousCatchPhrase() {
     "Bigly.",
     "I kid you not.",
     "That is what people are telling me.",
-    "There's something going on."
+    "There's something going on.",
     "Trust me.",
-    "You mark my words.",
+    "You mark my words."
   ];
   return " " + CATCH_PHRASES[Math.floor(Math.random() * CATCH_PHRASES.length)];
 }
